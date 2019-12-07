@@ -12,3 +12,4 @@ while tests > 0:
         elif inp == 0:
             zeros += 1;
     print(((twos)*(twos-1)/2) + (((zeros)*(zeros-1))/2))
+
